@@ -4,3 +4,5 @@
 *.csv
 *.conll
 .env
+/data
+/data/photos
