@@ -6,3 +6,6 @@
 .env
 /data
 /data/photos
+/labeled_data.conll
+/telegram_data_preprocessed
+/telegram_data
